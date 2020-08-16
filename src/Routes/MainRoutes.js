@@ -11,9 +11,9 @@ function MainRoutes() {
     <Router>
       <Switch>
         <Route path="/signin" component={SignIn} />
-        <Route path="/signup" component={SignUp} />
+        <Route path="/" component={SignUp} />
         <Route path="/forgotpassword" component={ForgotPassword} />
-        <Route path="/" exact component={Dashboard} />
+      <Route path="/d" exact component={Dashboard} />
       </Switch>
     </Router>
   );
