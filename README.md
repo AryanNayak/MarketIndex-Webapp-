@@ -33,23 +33,23 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 # Sign Up Page
-https://gifted-yalow-c3cb09.netlify.app/#/
+Checkout the Sign Up page on this link: https://gifted-yalow-c3cb09.netlify.app/#/
 
 ![Image of Signup](Signup.png)
 
 # Login Page
-https://mystifying-bartik-de74b0.netlify.app
+Checkout the Login page on this link: https://mystifying-bartik-de74b0.netlify.app
 
 ![Image of Login](login.png)
 
 # Forgot Password
-https://distracted-spence-c854bf.netlify.app/#/
+Checkout the Forgot Password page on this link: https://distracted-spence-c854bf.netlify.app/#/
 
 ![Image of Forgot Password](forgotpassword.png)
 
 
 # Main Index Page
-https://eager-murdock-fbc41a.netlify.app/
+Checkout the Main Index page on this link: https://eager-murdock-fbc41a.netlify.app/
 ![Image of Index](Dashboard.png)
 
 
