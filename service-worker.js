@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MarketIndex-Webapp-/precache-manifest.d9013eddca2db465e6ca4702a621a6fe.js"
+  "/MarketIndex-Webapp-/precache-manifest.fa46a5eaf4149488352dec9b6058fefe.js"
 );
 
 self.addEventListener('message', (event) => {

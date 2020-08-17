@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aec98be53d8b279370c166b4cdd66b3e",
+    "revision": "66a1ef31f6b2aa238b08a7a7bef1def9",
     "url": "/MarketIndex-Webapp-/index.html"
   },
   {
-    "revision": "849e5899d465efefce79",
+    "revision": "d571628eb570d6ff1578",
     "url": "/MarketIndex-Webapp-/static/css/main.dbadf52e.chunk.css"
   },
   {
-    "revision": "eb41048bdf8d3af2babb",
-    "url": "/MarketIndex-Webapp-/static/js/2.b56a7487.chunk.js"
+    "revision": "2de4b169fc122a8a0798",
+    "url": "/MarketIndex-Webapp-/static/js/2.14a5416b.chunk.js"
   },
   {
     "revision": "ba747f7848ad46d7397281a03e1191df",
-    "url": "/MarketIndex-Webapp-/static/js/2.b56a7487.chunk.js.LICENSE.txt"
+    "url": "/MarketIndex-Webapp-/static/js/2.14a5416b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "849e5899d465efefce79",
-    "url": "/MarketIndex-Webapp-/static/js/main.845c834e.chunk.js"
+    "revision": "d571628eb570d6ff1578",
+    "url": "/MarketIndex-Webapp-/static/js/main.447677d0.chunk.js"
   },
   {
     "revision": "deb4aebf20160c444059",
