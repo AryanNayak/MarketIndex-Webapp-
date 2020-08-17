@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MarketIndex-Webapp-/static/css/main.dbadf52e.chunk.css",
+    "main.js": "/MarketIndex-Webapp-/static/js/main.845c834e.chunk.js",
+    "main.js.map": "/MarketIndex-Webapp-/static/js/main.845c834e.chunk.js.map",
+    "runtime-main.js": "/MarketIndex-Webapp-/static/js/runtime-main.8d087761.js",
+    "runtime-main.js.map": "/MarketIndex-Webapp-/static/js/runtime-main.8d087761.js.map",
+    "static/js/2.b56a7487.chunk.js": "/MarketIndex-Webapp-/static/js/2.b56a7487.chunk.js",
+    "static/js/2.b56a7487.chunk.js.map": "/MarketIndex-Webapp-/static/js/2.b56a7487.chunk.js.map",
+    "index.html": "/MarketIndex-Webapp-/index.html",
+    "precache-manifest.d9013eddca2db465e6ca4702a621a6fe.js": "/MarketIndex-Webapp-/precache-manifest.d9013eddca2db465e6ca4702a621a6fe.js",
+    "service-worker.js": "/MarketIndex-Webapp-/service-worker.js",
+    "static/css/main.dbadf52e.chunk.css.map": "/MarketIndex-Webapp-/static/css/main.dbadf52e.chunk.css.map",
+    "static/js/2.b56a7487.chunk.js.LICENSE.txt": "/MarketIndex-Webapp-/static/js/2.b56a7487.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/MarketIndex-Webapp-/static/media/logo.3f7e441e.png",
+    "static/media/logo.svg": "/MarketIndex-Webapp-/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d087761.js",
+    "static/js/2.b56a7487.chunk.js",
+    "static/css/main.dbadf52e.chunk.css",
+    "static/js/main.845c834e.chunk.js"
+  ]
+}
