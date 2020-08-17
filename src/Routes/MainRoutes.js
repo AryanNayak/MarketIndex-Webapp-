@@ -4,18 +4,22 @@ import SignIn from "../Signin.js";
 import SignUp from "../Signup.js";
 import ForgotPassword from "../ForgotPassword.js";
 import Dashboard from "../Dashboard.js";
+import { HashRouter, Link } from "react-router-dom";
+import {render} from 'react-dom';
 
 
 function MainRoutes() {
   return (
-    <Router>
+    <Router >
       <Switch>
         <Route path="/signin" component={SignIn} />
-        <Route path="/" component={SignUp} />
+      <Route path="/signup" component={SignUp} />
         <Route path="/forgotpassword" component={ForgotPassword} />
-      <Route path="/d" exact component={Dashboard} />
+      <Route path="/" exact component={Dashboard} />
       </Switch>
     </Router>
+
+
   );
 }
 
