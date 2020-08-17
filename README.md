@@ -50,6 +50,7 @@ Checkout the Forgot Password page on this link: https://distracted-spence-c854bf
 
 # Main Index Page
 Checkout the Main Index page on this link: https://eager-murdock-fbc41a.netlify.app/
+
 ![Image of Index](Dashboard.png)
 
 
