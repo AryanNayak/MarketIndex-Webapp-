@@ -14,7 +14,7 @@ It is a React App which lets you see the NSE/BSE Indexes with the charts which h
 
 #### 1. "yarn add @material-ui/core"
 
-#### 2. Other Dependencies accoring to the System 
+#### 2. Other Dependencies according to the System 
 
 ### Step 3:
 
