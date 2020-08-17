@@ -8,7 +8,7 @@ It is a React App which lets you see the NSE/BSE Indexes with the charts which h
 
 ### Step 1: Clone the Repository
 
-### Step 2: "yarn install" 
+### Step 2: "yarn add yarn" 
 
 ### Step 4: Download the required Libraries:
 
